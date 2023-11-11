@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/meta-advreact2-forms/static/css/main.6751d428.css",
-    "main.js": "/meta-advreact2-forms/static/js/main.790fc63a.js",
+    "main.js": "/meta-advreact2-forms/static/js/main.4a79d5ec.js",
     "static/js/787.95f6de8c.chunk.js": "/meta-advreact2-forms/static/js/787.95f6de8c.chunk.js",
     "index.html": "/meta-advreact2-forms/index.html",
     "main.6751d428.css.map": "/meta-advreact2-forms/static/css/main.6751d428.css.map",
-    "main.790fc63a.js.map": "/meta-advreact2-forms/static/js/main.790fc63a.js.map",
+    "main.4a79d5ec.js.map": "/meta-advreact2-forms/static/js/main.4a79d5ec.js.map",
     "787.95f6de8c.chunk.js.map": "/meta-advreact2-forms/static/js/787.95f6de8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6751d428.css",
-    "static/js/main.790fc63a.js"
+    "static/js/main.4a79d5ec.js"
   ]
 }
